@@ -1,0 +1,2 @@
+Create a small platformer
+Push it on github
